@@ -1,0 +1,8 @@
+name: MoarLore
+description: Rename items and stuff
+main: me.zeus.MoarLore.Main
+version: 1.0
+commands:
+  rename:
+    description: Rename the item in your hand
+    syntax: /rename <name>
